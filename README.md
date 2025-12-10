@@ -15,7 +15,7 @@ The project addressed the needs of **three key stakeholders** at Spotify:
 
 The goal was to clean and enrich Spotify’s financial and user engagement dataset, engineer additional KPIs, and develop stakeholder-focused dashboards in Tableau.
 
-🔗 **Tableau Public Dashboard:** [Spotify Project](https://public.tableau.com/views/SpotifyProject_17534541379890/DB1_KPIOverview?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 **Tableau Public:** [Spotify KPI Dashboard](https://public.tableau.com/views/SpotifyProject_17534541379890/DB1_KPIOverview?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -131,7 +131,7 @@ Key fields included:
 
 ---
 
-📊 **Tableau Public Dashboard:** [Spotify Project](https://public.tableau.com/views/SpotifyProject_17534541379890/DB1_KPIOverview?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+📊 **Tableau Public:** [Spotify KPI Dashboard](https://public.tableau.com/views/SpotifyProject_17534541379890/DB1_KPIOverview?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
