@@ -1,15 +1,19 @@
 # Music Streaming KPI & Performance Analysis (Spotify Case Study)
 
-## Overview
+**Engineering KPIs and analyzing user engagement to evaluate performance patterns in a freemium music streaming model**  
+*A Google Sheets–based data model combined with Tableau dashboards to derive insights across user activity, monetization, and retention KPIs.*
 
-This project was conducted in July 2025 as part of the Data Analytics training program.  
-The goal was to clean and enrich Spotify’s financial and user engagement dataset, engineer additional KPIs, and develop stakeholder-focused dashboards in Tableau.  
+---
+
+## Overview
 
 The project addressed the needs of **three key stakeholders** at Spotify:  
 
 - **Sarah (Head of Strategy)** – focused on long-term growth and user trends  
 - **Mark (Director of Revenue)** – optimizing revenue streams and ARPU  
-- **Olivia (VP of Operations)** – ensuring cost efficiency and operational effectiveness  
+- **Olivia (VP of Operations)** – ensuring cost efficiency and operational effectiveness
+
+The goal was to clean and enrich Spotify’s financial and user engagement dataset, engineer additional KPIs, and develop stakeholder-focused dashboards in Tableau.
 
 🔗 **Tableau Public Dashboard:** [Spotify Project](https://public.tableau.com/views/SpotifyProject_17534541379890/DB1_KPIOverview?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
